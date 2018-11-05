@@ -1,0 +1,2 @@
+# Tableau_Baseball_Data
+In this project, i had used Tableau to build dashboards and tell a story with data. This is an essential skill as an analyst. I had explored data from Baseball Data( A data set from kaggle )  to draw out and display interesting patterns.  I  started by defining some leading questions, then exploring the data to find answers, and finally build visualizations to communicate those answers and tell a story.
